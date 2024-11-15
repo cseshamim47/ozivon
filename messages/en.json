@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "Test": {
+    "title": "Hello Test!",
+    "about me": "Test about"
+  },
+  "Hero": {
+    "title": "Sell Your Property Quickly & Securely",
+    "description": "With Ozivon, you can sell your property without the hassle. We secure a buyer for your home within 1 to 4 months.",
+    "cta": "Get a Free Property Evaluation"
+  },
+  "AboutSectionTwo": {
+    "title": "Who We Are",
+    "mainParagraph": "Ozivon is a wholesaling real estate company dedicated to helping homeowners sell their properties quickly and easily. We act as an intermediary, creating opportunities for both sellers and buyers without the need for traditional real estate licensing.",
+    "secondParagraph": "Our approach allows you, the homeowner, to agree on a fair price, while we leverage our network to find a suitable buyer for the contract within 1 to 4 months. You remain in control, and we ensure a smooth, hassle-free process from start to finish.",
+    "imageAlt": "About Ozivon"
+  },
+  "ChooseSectionTwo": {
+    "title": "Why Choose Ozivon?",
+    "features": {
+      "quickTurnaround": {
+        "title": "Quick Turnaround",
+        "description": "We work quickly to find a buyer within 1 to 4 months, saving you time and hassle."
+      },
+      "riskFree": {
+        "title": "Risk-Free Process",
+        "description": "The contract is binding only to you, so there's no risk of being forced to sell if we can't find a buyer."
+      },
+      "noHiddenFees": {
+        "title": "No Hidden Fees",
+        "description": "We are transparent in our fees, and there are no hidden costs along the way."
+      },
+      "experienced": {
+        "title": "Experienced in Multiple Fields",
+        "description": "With a diverse background and deep understanding of the market, we use an efficient, analytical approach to ensure the best outcome."
+      }
+    }
+  },
+  "Video": {
+    "title": "We are ready to help",
+    "paragraph": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.",
+    "imageAlt": "video image",
+    "playButtonLabel": "video play button"
+  },
+  "Contact": {
+    "title": "Get in Touch",
+    "paragraph": "Interested in selling your property quickly and efficiently? Let's start with a free property evaluation and see how we can help.",
+    "form": {
+      "name": {
+        "label": "Your Name",
+        "placeholder": "Enter your name"
+      },
+      "email": {
+        "label": "Your Email",
+        "placeholder": "Enter your email"
+      },
+      "phone": {
+        "label": "Your Phone",
+        "placeholder": "Enter your phone"
+      },
+      "message": {
+        "label": "Your Message",
+        "placeholder": "Enter your Message"
+      },
+      "submitButton": "Request a Free Property Evaluation"
+    },
+    "socialLinks": {
+      "facebook": "Facebook social link",
+      "twitter": "Twitter social link",
+      "youtube": "YouTube social link",
+      "linkedin": "LinkedIn social link"
+    }
+  },
+  "FAQ": {
+    "title": "Questions You Might Have",
+    "questions": {
+      "nobuyer": {
+        "question": "What if you don't find a buyer within the agreed time?",
+        "answer": "If we cannot find a buyer within 1 to 4 months, the contract ends without any obligations to you."
+      },
+      "whyozivon": {
+        "question": "Why should I choose Ozivon instead of a real estate agent?",
+        "answer": "We provide a quicker, more efficient process without the traditional fees or commissions. Plus, there's no risk to you if we can't find a buyer."
+      },
+      "fees": {
+        "question": "How much does Ozivon charge?",
+        "answer": "We charge a fee for selling the contract, which is included in the final price paid by the buyer. There are no additional costs for you."
+      },
+      "buyerbackout": {
+        "question": "What happens if the buyer backs out?",
+        "answer": "If the buyer backs out before finalizing the contract, we continue looking for another buyer within the agreed timeframe."
+      }
+    }
+  },
+  "Footer": {
+    "copyright": "OZIVON 2024. All rights reserved"
+  },
+  "Features": {
+    "title": "How It Works",
+    "steps": {
+      "1": {
+        "title": "Property Evaluation",
+        "paragraph": "We provide a free evaluation of your property and agree on a fair offer price, for example, €100,000.",
+        "stepLabel": "Step 1"
+      },
+      "2": {
+        "title": "Contract Agreement",
+        "paragraph": "We enter into a contract with you, stating that Ozivon will buy your property for the agreed price. The contract is binding only to you, the seller, ensuring your control.",
+        "stepLabel": "Step 2"
+      },
+      "3": {
+        "title": "Finding a Buyer",
+        "paragraph": "Within 1 to 4 months, we find a buyer for the contract. The buyer will pay Ozivon a fee (e.g., €10,000) for the contract rights, and pay you the agreed property price.",
+        "stepLabel": "Step 3"
+      },
+      "4": {
+        "title": "Closing the Deal",
+        "paragraph": "Once we find a buyer, we finalize the transfer of the contract to them, and they proceed with purchasing your home directly. It's straightforward, efficient, and risk-free for you.",
+        "stepLabel": "Step 4"
+      }
+    }
+  }
+}

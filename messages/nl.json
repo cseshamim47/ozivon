@@ -1,0 +1,126 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "Test": {
+    "title": "hola gola",
+    "about me": "tasi abat"
+  },
+  "Hero": {
+    "title": "Verkoop Uw Woning Snel & Veilig",
+    "description": "Met Ozivon kunt u uw woning zonder gedoe verkopen. Wij vinden binnen 1 tot 4 maanden een koper voor uw huis.",
+    "cta": "Ontvang een Gratis Woningtaxatie"
+  },
+  "AboutSectionTwo": {
+    "title": "Wie Wij Zijn",
+    "mainParagraph": "Ozivon is een vastgoed wholesaling bedrijf dat zich inzet om huiseigenaren te helpen hun eigendommen snel en eenvoudig te verkopen. Wij fungeren als tussenpersoon en creëren kansen voor zowel verkopers als kopers zonder de noodzaak van traditionele vastgoedlicenties.",
+    "secondParagraph": "Onze aanpak stelt u, de huiseigenaar, in staat om een eerlijke prijs overeen te komen, terwijl wij ons netwerk gebruiken om binnen 1 tot 4 maanden een geschikte koper voor het contract te vinden. U blijft de controle houden en wij zorgen voor een soepel, probleemloos proces van begin tot eind.",
+    "imageAlt": "Over Ozivon"
+  },
+  "ChooseSectionTwo": {
+    "title": "Waarom Kiezen voor Ozivon?",
+    "features": {
+      "quickTurnaround": {
+        "title": "Snelle Afhandeling",
+        "description": "We werken snel om binnen 1 tot 4 maanden een koper te vinden, wat u tijd en moeite bespaart."
+      },
+      "riskFree": {
+        "title": "Risicovrij Proces",
+        "description": "Het contract is alleen bindend voor u, dus er is geen risico dat u moet verkopen als we geen koper kunnen vinden."
+      },
+      "noHiddenFees": {
+        "title": "Geen Verborgen Kosten",
+        "description": "We zijn transparant in onze tarieven en er zijn geen verborgen kosten onderweg."
+      },
+      "experienced": {
+        "title": "Ervaren in Meerdere Vakgebieden",
+        "description": "Met een diverse achtergrond en diepgaand begrip van de markt gebruiken we een efficiënte, analytische aanpak om het beste resultaat te garanderen."
+      }
+    }
+  },
+  "Video": {
+    "title": "Wij staan klaar om te helpen",
+    "paragraph": "Er zijn veel variaties van passages van Lorem Ipsum beschikbaar, maar de meerderheid heeft in een of andere vorm wijzigingen ondergaan.",
+    "imageAlt": "video afbeelding",
+    "playButtonLabel": "video afspeel knop"
+  },
+  "Contact": {
+    "title": "Neem Contact Op",
+    "paragraph": "Geïnteresseerd in het snel en efficiënt verkopen van uw woning? Laten we beginnen met een gratis woningtaxatie en kijken hoe we u kunnen helpen.",
+    "form": {
+      "name": {
+        "label": "Uw Naam",
+        "placeholder": "Vul uw naam in"
+      },
+      "email": {
+        "label": "Uw E-mail",
+        "placeholder": "Vul uw e-mail in"
+      },
+      "phone": {
+        "label": "Uw Telefoon",
+        "placeholder": "Vul uw telefoonnummer in"
+      },
+      "message": {
+        "label": "Uw Bericht",
+        "placeholder": "Vul uw bericht in"
+      },
+      "submitButton": "Vraag een Gratis Woningtaxatie Aan"
+    },
+    "socialLinks": {
+      "facebook": "Facebook sociale link",
+      "twitter": "Twitter sociale link",
+      "youtube": "YouTube sociale link",
+      "linkedin": "LinkedIn sociale link"
+    }
+  },
+  "FAQ": {
+    "title": "Veelgestelde Vragen",
+    "questions": {
+      "nobuyer": {
+        "question": "Wat als u geen koper vindt binnen de afgesproken tijd?",
+        "answer": "Als we binnen 1 tot 4 maanden geen koper kunnen vinden, eindigt het contract zonder enige verplichtingen voor u."
+      },
+      "whyozivon": {
+        "question": "Waarom zou ik voor Ozivon kiezen in plaats van een makelaar?",
+        "answer": "Wij bieden een sneller, efficiënter proces zonder de traditionele kosten of commissies. Bovendien loopt u geen risico als we geen koper kunnen vinden."
+      },
+      "fees": {
+        "question": "Hoeveel rekent Ozivon?",
+        "answer": "Wij rekenen een vergoeding voor het verkopen van het contract, die is inbegrepen in de uiteindelijke prijs die door de koper wordt betaald. Er zijn geen extra kosten voor u."
+      },
+      "buyerbackout": {
+        "question": "Wat gebeurt er als de koper zich terugtrekt?",
+        "answer": "Als de koper zich terugtrekt voordat het contract is afgerond, gaan we binnen de afgesproken termijn op zoek naar een andere koper."
+      }
+    }
+  },
+  "Footer": {
+    "copyright": "OZIVON 2024. Alle rechten voorbehouden"
+  },
+  "Features": {
+    "title": "Hoe Het Werkt",
+    "steps": {
+      "1": {
+        "title": "Woningtaxatie",
+        "paragraph": "We bieden een gratis taxatie van uw woning en komen een eerlijke prijs overeen, bijvoorbeeld €100.000.",
+        "stepLabel": "Stap 1"
+      },
+      "2": {
+        "title": "Contractovereenkomst",
+        "paragraph": "We sluiten een contract met u af, waarin staat dat Ozivon uw woning voor de afgesproken prijs zal kopen. Het contract is alleen bindend voor u, de verkoper, waardoor u de controle houdt.",
+        "stepLabel": "Stap 2"
+      },
+      "3": {
+        "title": "Koper Vinden",
+        "paragraph": "Binnen 1 tot 4 maanden vinden we een koper voor het contract. De koper betaalt Ozivon een vergoeding (bijv. €10.000) voor de contractrechten en betaalt u de overeengekomen woningprijs.",
+        "stepLabel": "Stap 3"
+      },
+      "4": {
+        "title": "Deal Afronden",
+        "paragraph": "Zodra we een koper hebben gevonden, ronden we de overdracht van het contract aan hen af en gaan zij over tot de directe aankoop van uw woning. Het is eenvoudig, efficiënt en risicovrij voor u.",
+        "stepLabel": "Stap 4"
+      }
+    }
+  }
+}
